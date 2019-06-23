@@ -1,0 +1,59 @@
+Base path: 'C:/buildslave/unity/build/build/WindowsEditor/Data', plugins path ''
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=17415 outsize=10499 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5133 outsize=2222 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14985 outsize=6325 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7712 outsize=5657 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=21751 outsize=21785 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3918 outsize=897 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34508 outsize=32125 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34508 outsize=34422 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20012 outsize=15192 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9347 outsize=7844 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7704 outsize=5629 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4918 outsize=2435 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=1186 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=910 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3695 outsize=2627 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26648 outsize=15257 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=91354 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=34237 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=42707 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=92950 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=36062 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at (0): Program 'Deferred_Indirect_ShadowMask_Fptl_Variant26', warning X4714: sum of temp registers and indexable temp registers times 256 threads exceeds the recommended total 16384.  Performance may be reduced
+  api=4 insize=14406 outsize=95199 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5723 outsize=5009 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1946 outsize=2654 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2532 outsize=1860 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7423 outsize=1322 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=12262 outsize=9897 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10562 outsize=3883 ok=1
